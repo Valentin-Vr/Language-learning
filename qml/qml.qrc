@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RepeatWindow.qml</file>
+        <file>EditBox.qml</file>
+        <file>OutputField.qml</file>
+        <file>MainWindowButtons.qml</file>
+        <file>RegularButton.qml</file>
+        <file>RepeatWindowButtons.qml</file>
+        <file>InputInTheMainWindow.qml</file>
+        <file>OutputInTheMainWindow.qml</file>
+        <file>DataColumn.qml</file>
+        <file>DataTable.qml</file>
+        <file>MainMenu.qml</file>
+        <file>AddWindow.qml</file>
+        <file>AddWindowMenu.qml</file>
+        <file>FileOpenWindow.qml</file>
+        <file>FileOpenWindowMenu.qml</file>
+        <file>RepeatWindowMenu.qml</file>
+    </qresource>
+</RCC>
