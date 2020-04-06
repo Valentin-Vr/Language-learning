@@ -7,7 +7,7 @@ Window {
     visible: true
     width: 420
     height: 480
-    title: qsTr("Project 1.1")
+    title: qsTr("Language learning")
     minimumWidth: 420
     minimumHeight: 480
     color: "darkred"
